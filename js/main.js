@@ -68,7 +68,7 @@ function getWords(){
     )
 
     // words = ['Hello','Banana','Apple','Cherry','tomato'];
-    buttonChange('Game Start');
+    // buttonChange('Game Start');
 }
 
 // 단어 일치 체크 
